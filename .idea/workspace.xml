@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d4b23ce-8f94-4f9a-b09e-73b37d6f607b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter4/4.1value.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter4/4.2context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/5.1object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/5.2Array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/5.3Date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/5.4RegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/6.1object-oriented.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/6.2prototype.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,7 +21,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="5.4RegExp.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter5/5.4RegExp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,6 +41,12 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>values2</find>
+      <find>o1</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +65,12 @@
         <option value="$PROJECT_DIR$/Chapter3/3.7function.js" />
         <option value="$PROJECT_DIR$/Chapter4/4.1value.js" />
         <option value="$PROJECT_DIR$/Chapter4/4.2context.js" />
+        <option value="$PROJECT_DIR$/Chapter5/5.1object.js" />
+        <option value="$PROJECT_DIR$/Chapter5/5.2Array.js" />
+        <option value="$PROJECT_DIR$/Chapter5/5.3Date.js" />
+        <option value="$PROJECT_DIR$/Chapter6/6.1object-oriented.js" />
+        <option value="$PROJECT_DIR$/Chapter6/6.2prototype.js" />
+        <option value="$PROJECT_DIR$/Chapter5/5.4RegExp.js" />
       </list>
     </option>
   </component>
@@ -60,11 +87,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2069" />
-    <option name="y" value="101" />
-    <option name="width" value="1153" />
-    <option name="height" value="1020" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2468" />
+    <option name="y" value="24" />
+    <option name="width" value="1234" />
+    <option name="height" value="944" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -94,7 +121,12 @@
             <path>
               <item name="JS-Web-Developers" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Web-Developers" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Web-Developers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Web-Developers" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -105,7 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.10.0/bin/node" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="$USER_HOME$/.nvm/versions/node/v6.10.0/lib/node_modules/eslint" />
@@ -119,6 +151,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,8 +166,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.4.2context.js">
-    <configuration name="3.6statement.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="3.6statement.js" working-dir="$PROJECT_DIR$/Chapter3">
+  <component name="RunManager" selected="Node.js.5.4RegExp.js">
+    <configuration name="5.2Array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="5.2Array.js" working-dir="$PROJECT_DIR$/Chapter5">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -156,7 +190,7 @@
         </option>
       </EXTENSION>
     </configuration>
-    <configuration name="3.7function.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="3.7function.js" working-dir="$PROJECT_DIR$/Chapter3">
+    <configuration name="5.3Date.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="5.3Date.js" working-dir="$PROJECT_DIR$/Chapter5">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -179,7 +213,7 @@
         </option>
       </EXTENSION>
     </configuration>
-    <configuration name="4.1value.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="4.1value.js" working-dir="$PROJECT_DIR$/Chapter4">
+    <configuration name="5.4RegExp.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="5.4RegExp.js" working-dir="$PROJECT_DIR$/Chapter5">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -202,7 +236,7 @@
         </option>
       </EXTENSION>
     </configuration>
-    <configuration name="4.2context.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="4.2context.js" working-dir="$PROJECT_DIR$/Chapter4">
+    <configuration name="6.1object-oriented.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="6.1object-oriented.js" working-dir="$PROJECT_DIR$/Chapter6">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -225,7 +259,7 @@
         </option>
       </EXTENSION>
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="$PROJECT_DIR$/Chapter3/3.5opeartor.js" working-dir="$PROJECT_DIR$/Chapter3">
+    <configuration name="6.2prototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.12.0/bin/node" path-to-js-file="6.2prototype.js" working-dir="$PROJECT_DIR$/Chapter6">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -249,19 +283,19 @@
       </EXTENSION>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.3.6statement.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.3.7function.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.4.1value.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.4.2context.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.5.2Array.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.5.3Date.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.5.4RegExp.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.6.1object-oriented.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.6.2prototype.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.4.2context.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.4.1value.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.3.7function.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.3.6statement.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.5.4RegExp.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.6.2prototype.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.6.1object-oriented.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.5.3Date.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.5.2Array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -284,20 +318,28 @@
       <workItem from="1551145219372" duration="609000" />
       <workItem from="1551163473721" duration="7961000" />
       <workItem from="1551234623864" duration="3330000" />
-      <workItem from="1551341543341" duration="7580000" />
+      <workItem from="1551341543341" duration="7652000" />
+      <workItem from="1551405490964" duration="6422000" />
+      <workItem from="1551444017147" duration="11975000" />
+      <workItem from="1551640561464" duration="458000" />
+      <workItem from="1551669529608" duration="936000" />
+      <workItem from="1551685623182" duration="4214000" />
+      <workItem from="1551746406303" duration="608000" />
+      <workItem from="1551792483020" duration="5462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26240000" />
+    <option name="totallyTimeSpent" value="56387000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="2468" y="24" width="1234" height="944" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17552084" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29244357" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.502574" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3284055" sideWeight="0.497426" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27757126" sideWeight="0.497426" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -323,6 +365,60 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapter6/6.1object-oriented.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/6.1object-oriented.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/6.1object-oriented.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/6.1object-oriented.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/6.1object-oriented.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/5.1object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/5.2Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter3/3.5opeartor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2156">
@@ -335,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="980">
           <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -344,7 +439,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="448">
             <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -354,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -363,7 +456,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="84">
             <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -381,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -427,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="980">
           <caret line="35" column="10" lean-forward="false" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +527,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="448">
             <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -448,7 +537,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="140">
             <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -466,7 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -474,7 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,6 +568,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/5.2Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="115" column="2" lean-forward="true" selection-start-line="115" selection-start-column="2" selection-end-line="115" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/5.3Date.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/5.1object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/6.1object-oriented.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/6.2prototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/5.4RegExp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding />
         </state>
       </provider>
